@@ -43,16 +43,6 @@ Cada atividade contém instruções passo a passo. Siga os links abaixo para ace
 
 ---
 
-## Como Contribuir
-
-Se você quiser contribuir para este portfólio, sinta-se à vontade para abrir um pull request com sugestões de melhorias, correções ou novas atividades. A colaboração é bem-vinda!
-
-## Contato
-
-Para mais informações ou dúvidas, entre em contato através do meu perfil no GitHub.
-
----
-
 ### Sobre Mim
 
 Sou um entusiasta da tecnologia e segurança da informação, sempre buscando aprender e compartilhar conhecimentos. Este portfólio reflete meu compromisso com a educação contínua e a aplicação prática do que aprendo, dentro da filosofia do "Hackers do Bem".
