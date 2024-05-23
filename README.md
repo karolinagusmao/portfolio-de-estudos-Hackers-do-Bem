@@ -64,7 +64,7 @@ Cada atividade contém instruções passo a passo. Siga os links abaixo para ace
 
 ### Sobre Mim
 
-Sou um entusiasta da tecnologia e segurança da informação, sempre buscando aprender e compartilhar conhecimentos. Este portfólio reflete meu compromisso com a educação contínua e a aplicação prática do que aprendo, dentro da filosofia do "Hackers do Bem".
+Sou uma entusiasta da tecnologia e segurança da informação, sempre buscando aprender e compartilhar conhecimentos. Este portfólio reflete meu compromisso com a educação contínua e a aplicação prática do que aprendo, dentro da filosofia do "Hackers do Bem".
 
 ---
 
